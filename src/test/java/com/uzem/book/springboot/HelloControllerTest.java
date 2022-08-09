@@ -1,5 +1,6 @@
-package com.uzem.book.springboot.web;
+package com.uzem.book.springboot;
 
+import com.uzem.book.springboot.web.HelloController;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

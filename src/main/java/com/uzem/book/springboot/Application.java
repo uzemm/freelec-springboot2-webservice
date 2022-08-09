@@ -1,4 +1,4 @@
-package com.uzem.book.springboot.web;
+package com.uzem.book.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
